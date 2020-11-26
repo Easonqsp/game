@@ -3,5 +3,8 @@
 using namespace std;
 int main()
 {
-    cout << "Hello World!\n";
+	cur(0);
+    cout << "Welcome to battle game ver: "<<ver<<ret;
+	pau();
+	return 0;
 }
