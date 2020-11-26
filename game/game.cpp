@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿//main
+#include "main.h"
 using namespace std;
 int main()
 {
